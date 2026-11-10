@@ -10,6 +10,9 @@ export const clinic = {
   city: "Portside, CA 90210",
 };
 
+export const consultationFee = 1000;
+export const paymentCurrency = "PHP";
+
 export const hours = [
   { day: "Monday to Friday", time: "8:00 AM - 6:00 PM" },
   { day: "Saturday", time: "By appointment" },
